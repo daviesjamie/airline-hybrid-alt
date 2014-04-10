@@ -9,6 +9,8 @@ Airline already comes bundled with a theme based on the
 [hybrid](https://github.com/w0ng/vim-hybrid) colour scheme, but the way the
 colours are applied is not to my liking - hence I created my own!
 
+![hybrid-alt](https://raw.github.com/daviesjamie/airline-hybrid-alt/master/preview.gif)
+
 
 ## Installation
 
