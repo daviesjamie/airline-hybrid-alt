@@ -2,7 +2,7 @@ airline-hybrid-alt
 ==================
 
 This is a theme for
-[Airline](https://github.com/bling/vim-airline), a light-weight vim status bar
+[vim-airline](https://github.com/bling/vim-airline), a light-weight vim status bar
 plugin.
 
 Airline already comes bundled with a theme based on the
