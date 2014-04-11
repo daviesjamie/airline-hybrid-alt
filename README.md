@@ -22,7 +22,8 @@ install it with any of the popular plugin managers:
 - [NeoBundle](https://github.com/Shougo/neobundle.vim)
     - `NeoBundle 'daviesjamie/airline-hybrid-alt'`
 - [Pathogen](https://github.com/tpope/vim-pathogen)
-    -  `git clone https://github.com/daviesjamie/airline-hybrid-alt ~/.vim/bundle/vim-airline`
+    -  `git clone https://github.com/daviesjamie/airline-hybrid-alt
+       ~/.vim/bundle/airline-hybrid-alt`
 
 You can also install the plugin manually, by copying the files into your
 `~/.vim` directory.
